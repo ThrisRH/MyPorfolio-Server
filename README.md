@@ -25,7 +25,6 @@ Server backend cho website portfolio, xử lý việc gửi tin nhắn liên h�
 
 ```bash
 git clone <repository-url>
-cd server
 ```
 
 2. Cài đặt dependencies:
